@@ -4,9 +4,11 @@ Omnifood is a premium food delivery service. They know many people are very busy
 
 ## Example Display
 
-
+<p align="center">
+  <img width="800" height="500" src="/example.png">
+</p>
 
 ## Setup the Site
 
 1. Download the project.
-2. Run 
+2. Run the index.html file by double-cliking it.
