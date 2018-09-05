@@ -5,7 +5,7 @@ Omnifood is a premium food delivery service. They know many people are very busy
 ## Example Display
 
 <p align="center">
-  <img width="800" height="475" src="/site.png">
+  <img width="800" height="500" src="/site.png">
 </p>
 
 ## Setup the Site
