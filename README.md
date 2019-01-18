@@ -11,4 +11,4 @@ Omnifood is a premium food delivery service. They know many people are very busy
 ## Setup the Site
 
 1. Download the project.
-2. Run the index.html file by double-cliking it.
+2. Run the index.html file by double-clicking it.
